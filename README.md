@@ -1,5 +1,6 @@
 # airbnb-clone
-Airbnb Clone
+Airbnb Clone:-
+
 This is an Airbnb clone project that I built using the MERN stack, including Vite, Next.js, and Tailwind CSS. It allows users to register, login, add places, and book them.
 
 Features:-
